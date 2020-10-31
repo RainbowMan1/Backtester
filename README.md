@@ -7,7 +7,7 @@
 * Requires a class that implements Trader "interface" i.e. defines 2 methods: entry and monitorand OHLCV object
 ### **Visualization:**
 * (To be updated) For now, something like this:
-![Gif](https://imgur.com/d6ICGly)
+![Vid](https://i.imgur.com/d6ICGly.mp4)
 [Source](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
 ### **Metrics:**
 * Takes in Trade History object
